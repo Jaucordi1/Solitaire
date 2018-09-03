@@ -2,4 +2,4 @@
 ### Using **[p5.js](https://p5js.org/)**
 Made in **JavaScript**
 
-Illustrations by **Madame Happiness**
+Illustrations/Figures by **Madame Happiness**
